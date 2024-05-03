@@ -1,10 +1,10 @@
 
 # Image to Video
 
-You can turn your images into simple video with your audio.
+Easily transform your images into a video with added audio.
 ## Installation
 
-First You have to install ffmpeg package in your system
+To ensure compatibility, you must install version 6 of the ffmpeg package on your system.
 
 For MacOs :
 
@@ -15,12 +15,12 @@ For MacOs :
 For Windows :
 
 ```bash 
-  Refer Given Link of Youtube
+  Refer to the provided YouTube link for installation instructions.
 ```
 
 
 
-Clone my git Repository with command 
+Once ffmpeg is installed, clone the repository:
 
 ```bash 
   git clone https://github.com/pragnesh-softcolon/image-to-video.git
